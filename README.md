@@ -92,3 +92,6 @@ Possible error condition responses include:
 
 # Copyright
 Copyright (c) 2022 André Antunes (Andrezzz). All rights reserved.
+
+# License
+This project is distributed under the [MIT License](https://opensource.org/licenses/MIT), see LICENSE file for more information.
